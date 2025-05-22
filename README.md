@@ -1,4 +1,4 @@
-This project explores a structured approach to cleaning, analyzing, visulaizing and applying machine learning models to a house prices dataset containing over 21,000 records.
+This project explores a structured approach to cleaning, analyzing, visualizing and applying machine learning models to a house prices dataset containing over 21,000 records.
 Data Source: https://www.kaggle.com/datasets/harlfoxem/housesalesprediction?select=kc_house_data.csv
 Key Topics: EDA, Data Cleaning, Scaling, PCA, K-means,Linear Regression, Apriori, Elbow Method, Feature Engineerig, Visualization.
 
